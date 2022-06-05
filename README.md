@@ -14,6 +14,11 @@ Software: HTML/CSS, JavaScript, BootStrap
 
 ![Results](static/images/results.png)
 
+### Results Example
+![ResultsExample1](static/images/resultsExample.png)
+
+Users will need to enter information on the user inputs to get the full data of what they are seeking.
+
 ## Summary
 
 - One disadvantage of this approach is that it is difficult for the user to look for data without enough information provided.
